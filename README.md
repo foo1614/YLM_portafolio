@@ -7,23 +7,27 @@ En este proyecto se muestran los trabajos realizados durante el curso de Technol
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](imagenes/readme/portada.png)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](imagenes/readme/experiencia.png)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](imagenes/readme/proyectos.png)
 
 Referencias:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![Referencias](imagenes/readme/referencias.png)
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](imagenes/readme/conotacto.png)
+
+Redes sociales:
+![Redes sociales](imagenes/readme/redessociales.png)
+
 
 ## Tecnologías
 
